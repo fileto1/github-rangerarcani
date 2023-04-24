@@ -5,7 +5,7 @@ const CardStyled = styled(Card)({
   background: "transparent",
   borderBottom: "1px solid #6a6a6a",
   borderRadius: 0,
-  marginBottom: 30,
+  marginBottom: 28,
   color: "white",
 });
 
